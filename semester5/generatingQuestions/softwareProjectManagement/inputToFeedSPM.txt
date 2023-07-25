@@ -1,0 +1,109 @@
+In the context "BSc IT" and the subject "Internet of Things", generate 12 questions for each unit and divide the questions in each unit chapterwise equally. For example, If a unit have 3 chapters then generate 4 questions for each chapter, if a unit have 2 chapters then generate 6 questions for each chapter, if a unit have only 1 chapter then generate 12 questions for the chapter. Take the help of subtopics in each chapter to generate appropriate questions:
+
+
+UNIT 1 :
+Introduction to Software Project Management:Introduction, Why
+is Software Project Management Important? What is a Project?
+Software Projects versus Other Types of Project, Contract
+Management and Technical Project Management, Activities Covered
+by Software Project Management, Plans, Methods and Methodologies,
+Some Ways of Categorizing Software Projects, Project Charter,
+Stakeholders, Setting Objectives, The Business Case, Project Success
+and Failure, What is Management? Management Control, Project
+Management Life Cycle, Traditional versus Modern Project
+Management Practices.
+
+Project Evaluation and Programme Management: Introduction,
+Business Case, Project Portfolio Management, Evaluation of
+Individual Projects, Cost–benefit Evaluation Techniques, Risk
+Evaluation, Programme Management, Managing the Allocation of
+Resources within Programmes, Strategic Programme Management,
+Creating a Programme, Aids to Programme Management, Some
+Reservations about Programme Management, Benefits Management.
+An Overview of Project Planning:Introduction to Step Wise Project
+
+Planning, Step 0: Select Project, Step 1: Identify Project Scope and
+Objectives, Step 2: Identify Project Infrastructure, Step 3: Analyse
+Project Characteristics, Step 4: Identify Project Products and
+Activities, Step 5: Estimate Effort for Each Activity, Step 6: Identify
+Activity Risks, Step 7: Allocate Resources, Step 8: Review/Publicize
+Plan, Steps 9 and 10: Execute Plan/Lower Levels of Planning
+
+UNIT 2 :
+Selection of an Appropriate Project Approach:Introduction, Build
+or Buy? Choosing Methodologies and Technologies, Software
+Processes and Process Models, Choice of Process Models, Structure
+versus Speed of Delivery, The Waterfall Model, The Spiral Model,
+Software Prototyping, Other Ways of Categorizing Prototypes,
+Incremental Delivery, Atern/Dynamic Systems Development Method,
+Rapid Application Development, Agile Methods, Extreme
+Programming (XP), Scrum, Lean Software Development, Managing
+Iterative Processes, Selecting the Most Appropriate Process Model.
+
+Software Effort Estimation:Introduction, Where are the Estimates
+Done? Problems with Over- and Under-Estimates, The Basis for
+Software Estimating, Software Effort Estimation Techniques, Bottom-
+up Estimating, The Top-down Approach and Parametric Models,
+Expert Judgement, Estimating by Analogy, Albrecht Function Point
+Analysis, Function Points Mark II, COSMIC Full Function Points,
+
+COCOMO II: A Parametric Productivity Model, Cost Estimation,
+Staffing Pattern, Effect of Schedule Compression, Capers Jones
+Estimating Rules of Thumb.
+
+UNIT 3 :
+Activity Planning: Introduction, Objectives of Activity Planning,
+When to Plan, Project Schedules, Projects and Activities, Sequencing
+and Scheduling Activities, Network Planning Models, Formulating a
+Network Model, Adding the Time Dimension, The Forward Pass,
+Backward Pass, Identifying the Critical Path, Activity Float,
+Shortening the Project Duration, Identifying Critical Activities,
+Activity-on-Arrow Networks.
+
+Risk Management: Introduction, Risk, Categories of Risk, Risk
+Management Approaches, A Framework for Dealing with Risk, Risk
+Identification, Risk Assessment, Risk Planning, Risk Management,
+Evaluating Risks to the Schedule, Boehm‟s Top 10 Risks and Counter
+Measures, Applying the PERT Technique, Monte Carlo Simulation,
+Critical Chain Concepts.
+
+Resource Allocation: Introduction, Nature of Resources, Identifying
+Resource Requirements, Scheduling Resources, Creating Critical
+Paths, Counting the Cost, Being Specific, Publishing the Resource
+Schedule, Cost Schedules, Scheduling Sequence.
+
+UNIT 4 :
+Monitoring and Control: Introduction, Creating the Framework,
+Collecting the Data, Review, Visualizing Progress, Cost Monitoring,
+Earned Value Analysis, Prioritizing Monitoring, Getting the Project
+Back to Target, Change Control, Software Configuration Management
+(SCM).
+
+Managing Contracts: Introduction, Types of Contract, Stages in
+Contract Placement, Typical Terms of a Contract, Contract
+Management, Acceptance.
+
+Managing People in Software Environments: Introduction,
+Understanding Behaviour, Organizational Behaviour: A Background,
+Selecting the Right Person for the Job, Instruction in the Best
+Methods, Motivation, The Oldham–Hackman Job Characteristics
+Model, Stress, Stress Management, Health and Safety, Some Ethical
+and Professional Concerns.
+
+UNIT 5 :
+Working in Teams: Introduction, becoming a Team, Decision
+Making, Organization and Team Structures, Coordination
+Dependencies, Dispersed and Virtual Teams, Communication Genres,
+Communication Plans, Leadership.
+
+Software Quality: Introduction, The Place of Software Quality in
+Project Planning, Importance of Software Quality, Defining Software
+Quality, Software Quality Models, ISO 9126, Product and Process
+Metrics, Product versus Process Quality Management, Quality
+Management Systems, Process Capability Models, Techniques to
+Help Enhance Software Quality, Testing, Software Reliability,
+Quality Plans.
+
+Project Closeout: Introduction, Reasons for Project Closure, Project
+Closure Process, Performing a Financial Closure, Project Closeout
+Report.

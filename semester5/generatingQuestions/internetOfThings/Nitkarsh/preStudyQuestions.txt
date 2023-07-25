@@ -1,0 +1,11 @@
+
+-Application Protocols: HTTP, MQTT, CoAP, AMQP
+-Transport Protocols: TCP/IP, UDP, Bluetooth, Wi-Fi
+-Network Protocols: IPv4/v6, 6LoWPAN, ZigBee, RFID
+-The communication layer enables communication between the objects and the internet. It includes protocols such as MQTT, CoAP, SSH, and XMPP.
+-At the service layer, a service-oriented architecture is employed to provide services such as remote control, management, and monitoring. This layer includes protocols such as REST and SOAP.
+- What is meant by reliability and resilient, in general? Explain with lots of examples, respectively.
+- Why and where respectively is used? Explain with lots of examples.
+distributed computing, dynamic resource allocation, and distributed storage. Explain them in short.
+modular architecture, modular software, and remote updates. Explain them in short.
+What does these terms mean? Data security, data privacy and data integrity? Explain them in short. Explain data integrity in much more detail with examples.

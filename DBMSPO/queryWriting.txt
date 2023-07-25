@@ -1,0 +1,8 @@
+UPDATE SaleDetails SET CustomerName = 'Rajesh' WHERE ProductID = 1001;
+UPDATE SaleDetails SET CustomerName = 'Vedant' WHERE ProductID = 1002;
+UPDATE SaleDetails SET CustomerName = 'Swati' WHERE ProductID = 1003;
+UPDATE SaleDetails SET CustomerName = 'Smar' WHERE ProductID = 1004;
+UPDATE SaleDetails SET CustomerName = 'Swaraj' WHERE ProductID = 1005;
+UPDATE SaleDetails SET CustomerName = 'Nitkarsh' WHERE ProductID = 1006;
+UPDATE SaleDetails SET CustomerName = 'Pallavi' WHERE ProductID = 1007;
+UPDATE SaleDetails SET CustomerName = 'Purshotam' WHERE ProductID = 1008;

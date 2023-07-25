@@ -1,0 +1,50 @@
+NP University, Lovely!!
+
+
+Q.1 Answer the following questions: (Any three) (Marks 15)
+1. What are the differences between C# and VB in .NET languages?
+2. What are the advantages of using .NET for software development?
+3. What are the different data types and variables used in C#?
+4. How are loops and methods used in C# programming?
+5. How do namespaces and assemblies work in C# programming?
+6. What is inheritance in C# programming?
+
+
+
+Q.2 Answer the following questions: (Any three) (Marks 15)
+1. What is the code-behind class and how is it used in web development?
+2. What are server controls and how are they used in web development?
+3. What are web control classes and how are they used in web development?
+4. What are web control events and how are they used in web development?
+5. What are site maps and how are they used in web development?
+6. What is the TreeView control and how is it used in web development?
+
+
+
+Q.3 Answer the following questions: (Any three) (Marks 15)
+1. What are some common errors that can occur in web programming?
+2. What is tracing and how can it be used for debugging?
+3. How does View State work and what are its advantages and disadvantages?
+4. What is session state and how can it be configured?
+5. What is a master page and how can it be used for consistent page layout?
+6. What are the benefits of using advanced master pages in web applications?
+
+
+
+Q.4 Answer the following questions: (Any three) (Marks 15)
+1. What is ADO.NET and how is it used for database connectivity in web applications?
+2. How can SQL be used with ADO.NET for data access?
+3. What is data binding and how is it used in web applications?
+4. How can repeated-value data binding be used to display multiple records in web pages?
+5. What is the GridView control and how can it be used to display data in a table format?
+6. How can GridView be used for editing and deleting data in web applications?
+
+
+
+Answer the following questions: (Any three) (Marks 15)
+1. What is XML? Explain its features and uses.
+2. What is XML validation and why is it important?
+3. What is authentication and authorization? Explain the difference between the two.
+4. What is Forms authentication? How is it implemented in ASP.NET?
+5. What is AJAX and how is it used in web programming?
+6. What is partial refreshing in AJAX? How does it improve web performance?

@@ -1,0 +1,61 @@
+In India,  Bachelor of Science in Information Technology, (abbreviated BSIT or B.Sc. IT), is a bachelor's degree awarded for an undergraduate program in the information technology.
+In a year, there are 2 Semester each of a period of 6 months approximately.
+There are total 6 Semesters, Every semesters the subjects change, and new and different subjects come.
+Now, I am in 5th Semester and this is my third year, respectively.
+Generate me at least 200 questions for the subject 'Advanced Web Programming' based on the information provided above and syllabus provided below.
+UNIT 1 :
+Introducing .NET: The .NET Framework, C#, VB, and the .NET
+Languages, The Common Language Runtime, The .NET Class
+Library.
+The C# Language: C# Language Basics, Variables and Data Types,
+Variable Operations, Object-Based Manipulation, Conditional Logic,
+Loops, Methods.
+Types, Objects, and Namespaces: The Basics About Classes,
+Building a Basic Class, Value Types and Reference Types,
+Understanding Namespaces and Assemblies, Advanced Class
+Programming.
+UNIT 2 :
+Web Form Fundamentals: Writing Code, Using the Code-Behind
+Class, Adding Event Handlers, Understanding the Anatomy of an
+ASP.NET Application, Introducing Server Controls, Using the Page
+Class, Using Application Events, Configuring an ASP.NET
+Application.
+Form Controls: Stepping Up to Web Controls, Web Control Classes,
+List Controls, Table Controls, Web Control Events and
+AutoPostBack, Validation, Understanding Validation, Using the
+Validation Controls, Rich Controls, The Calendar, The AdRotator,
+Pages with Multiple Views, User Controls and Graphics, User
+Controls, Dynamic Graphics, The Chart Control, Website Navigation:
+Site Maps, URL Mapping and Routing, The SiteMapPath Control,
+The TreeView Control, The Menu Control.
+UNIT 3 :
+Error Handling, Logging, and Tracing: Avoiding Common Errors,
+Understanding Exception Handling, Handling Exceptions, Throwing
+Your Own Exceptions, Using Page Tracing
+State Management: Understanding the Problem of State, Using View
+State, Transferring Information Between Pages, Using Cookies,
+Managing Session State, Conﬁguring Session State, Using
+Application State, Comparing State Management Options
+Styles, Themes, and Master Pages: Styles, Themes, Master Page
+Basics, Advanced Master Pages,
+UNIT 4 :
+ADO.NET Fundamentals: Understanding Databases, Conﬁguring
+Your Database, Understanding SQL Basics, Understanding the Data
+Provider Model, Using Direct Data Access, Using Disconnected Data
+Access.
+Data Binding: Introducing Data Binding, Using Single-Value Data
+Binding, Using Repeated-Value Data Binding, Working with Data
+Source Controls,
+The Data Controls: The GridView, Formatting the GridView,
+selecting a GridView Row, Editing with the GridView, Sorting and
+Paging the GridView, Using GridView Templates, The DetailsView
+and FormView
+UNIT 5 :
+XML: XML Explained, The XML Classes, XML Validation, XML
+Display and Transforms.
+Security Fundamentals: Understanding Security Requirements,
+Authentication and Authorization, Forms Authentication, Windows
+Authentication.
+ASP.NET AJAX: Understanding Ajax, Using Partial Refreshes,
+Using Progress Notiﬁcation, Implementing Timed Refreshes,
+Working with the ASP.NET AJAX Control Toolkit.
