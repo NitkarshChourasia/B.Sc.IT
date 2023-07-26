@@ -1,0 +1,51 @@
+NP University, Lovely!!!
+
+
+Q1. Answer the following questions. (Any three)  Marks 15
+What is software project management? Why is it important?
+What are some ways of categorizing software projects?
+What is risk evaluation and how is it performed in software project management?
+What is programme management and how is it different from project management?
+How is the project scope and objectives identified in step 1 of project planning?
+What are the different activities involved in step 4 of project planning and why are they important?
+
+
+
+Q2. Answer the following questions. (Any three) Marks 15
+What are the different approaches to software project management? Explain their advantages and disadvantages.
+What is the Waterfall model? Explain its phases and limitations.
+What is the Spiral model? Explain its advantages and disadvantages.
+What is incremental delivery? Explain its advantages and disadvantages.
+What is Scrum methodology? Explain its principles and benefits.
+What is Extreme Programming (XP)? Explain its principles and benefits.
+What is Lean Software Development? Explain its principles and benefits.
+
+
+
+Q3. Answer the following questions. (Any three) Marks 15
+Explain the concepts of sequencing and scheduling activities in software project management.
+What is a network model? Explain its importance in software project management.
+What is Risk Management? Explain its importance in software project management.
+Explain the process of risk identification, assessment, planning, and management in software project management.
+What is resource allocation in software project management? Why is it important?
+How are resource requirements identified and scheduled in software project management?
+
+
+
+Q4. Answer the following questions. (Any three) Marks 15
+What is monitoring and control in software project management? Why is it important?
+Explain the framework for monitoring and control in software project management.
+What are the steps to get a project back on target in software project management?
+What is change control in software project management? Why is it important?
+What is software configuration management and how is it used in software project management?
+How do you manage software contracts in a software project? Explain with examples.
+
+
+
+Q5. Answer the following questions. (Any three) Marks 15
+What are the different team structures used in software project management? Explain their advantages and disadvantages.
+What is coordination in software project management? Explain its importance and challenges.
+What is software quality and why is it important in software project management?
+What are the different reasons for project closure? Explain each reason.
+What is the project closure process? Explain its steps and challenges.
+What is a project closeout report? Explain its purpose and components.

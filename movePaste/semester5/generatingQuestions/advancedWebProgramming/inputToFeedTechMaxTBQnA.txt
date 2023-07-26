@@ -1,0 +1,58 @@
+Discuss on .net frame work architecture?
+Write a note on type casting. Give examples?
+What is a delegate, explain with examples?
+Write on looping statements, explain any one with example?
+Write a note on control flow statements?
+Write a note on .net assemblies?
+Write a note on class, give example?
+Explain namespace in detail?
+Write on assembly and its types?
+Discuss on inheritance, explain any one in detail?
+What is web form model?
+Explain server controls in detail?
+What is a page, discuss in detail?
+Write a note on web.config file?
+Write a note on list control?
+Explain any one validation control in detail?
+Discuss on calendar control?
+Write a note on Sitemap control?
+Explain about tree view control?
+Discuss in detail about web control class?
+Define CSS, Explain Internal Style sheet with example?
+What is an external style sheet give example?
+Write on Theme, give the steps to create a theme in asp?
+Write a note on skin file, give its types?
+What is master page. Discuss the steps to create a master page?
+What is an exception, give example?
+How to create user define exception and give example?
+Discuss on tracing and types of tracing?
+Discuss on View State?
+Write on session state?
+Compare and contrast all state management techniques?
+Explain cookies with example?
+What is query string, explain its implementation?
+Explain application state?
+What is a grid view, give the different formatting techniques?
+How to select, page and edit a row in grid view?
+Discuss on details view?
+Explain form view in detail?
+Give the steps to configure database?
+What is direct access, explain?
+Write a data reader and data adapter object?
+Give the use of disconnected data architecture?
+Discuss on Data Provider Model?
+What is data binding give its types?
+Discuss on ingle value data binding?
+Write on Repeated Value Binding?
+What is a Data source control, give example?
+Explain in brief ado.net architecture?
+Explain XML in detail with an example?
+Explain XML validation in detail?
+How does XSLT works?
+Explain windows authentication in ASP .NET?
+Explain the various authentication mechanisms in ASP .NET?
+What is impersonation in ASP .NET?
+Explain windows authentication?
+Explain UpdatePanel and ScriptManager control with an example?
+Expalin UpdateProgress control and Timer control in detail?
+Explain AJAX. What are the advantages of AJAX?

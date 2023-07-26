@@ -1,0 +1,242 @@
+1) Follow these steps to install Cordova:
+
+    Install Node.js. Cordova runs on the Node.js platform, which needs to be installed as the first step. Download installer from: http://nodejs.org
+
+    Go ahead an run the downloaded installation file. It is recommended to use the default settings. Node.js needs to be added to the PATH environment variable, which is done by default.
+
+    To test the installation, open a command window (make sure you open a new command window to get the updated path settings made by the Node.js installation), and type:
+
+    	node --version
+
+    If the version number is displayed, Node.js is installed and working!
+
+    Install Git. Git is a version control system, which is used by Cordova behind-the-scenes. Download and install from: http://git-scm.com. Default settings are recommended.
+
+    Install Cordova. Cordova is installed using the Node Package Manager (npm). Type the following in the command window to install:
+
+    	npm install -g cordova
+
+    Test the Cordova install by typing:
+
+    	cordova --version
+
+    If you see the version number, you have successfully installed Apache Cordova!
+
+2) Installing Gradle, JDK 8 is a requirement for Android SDK Manager:-
+	
+	Uninstall any JDK version you have preinstalled on PC (it can create conflicts).
+
+		The Android SDK needs the Java Development Kit (JDK) to be installed, version 1.8. Note that the Java Runtime Environment (JRE) is not sufficient, you will need the JDK. To check if you have the JDK installed already, type this on the command line:
+
+			javac -version
+
+	If you do not have the JDK installed or the version is not 1.8 then, proceed as follows:
+
+    For JDK 8 (only download and install the 1.8th version and do not upgrade), the official website of Oracle requires us to login before we download. So here is a workaround:-
+		
+
+		https://javadl.oracle.com/webapps/download/GetFile/1.8.0_321-b07/df5ad55fdd604472a86a45a217032c7d/windows-i586/jdk-8u321-windows-x64.exe
+
+		This link is for windows 64 bit only.
+		
+		For more refer this:-
+			https://gist.github.com/wavezhang/ba8425f24a968ec9b2a8619d7c2d86a6
+
+    Go along and run the downloaded installer file. Using the default selections should be fine, but take a note of the directory in which you install the JDK. You will need to add this to the PATH in a later step below.
+
+    Next, update your path to include the JDK. Open the Control Panel, click System and Security, click System, click Change settings, which will open the System Properties window. Select the Advanced tab, then click the Environment Variables button.
+
+    In the list User variables select PATH and click the Edit button. (If there is no PATH entry in the list, click the New button to create one.)
+
+    At the end of the field Variable value, add a semicolon followed by the path to the bin directory of the JDK install. Here is an example (note that this must be the actual path used for the install on your machine):
+
+    ;C:\Program Files\Java\jdk1.8.0_11\bin
+
+    An easy way to do this is to prepare the path to add in a text editor, then paste it at the end of the input field. When done click the OK button.
+
+    Next add the JAVA_HOME variable if it is not present (and if it is in the list, you may need to update its value using the Edit button). Click the New button. In the field Variable name type:
+
+    JAVA_HOME
+
+    In the field Variable value enter the path to the directory where the JDK is installed, without the semicolon and the /bin subdirectory, for example:
+
+    C:\Program Files\Java\jdk1.8.0_11
+
+    Click the OK button.
+
+    Click the OK button again to close the Environment Variables window.
+
+    Now you are ready to test the install. Close any open command windows, and open a new command window and type:
+
+    javac -version
+
+    If you see a version number 1.8... you are done with the JDK install!
+
+3) Now we need Android SDK Manager. 
+	
+	This is available only in command-line form now. 
+	
+	The GUI based SDK manager has been depreciated. 
+	
+	But we have the last GUI version saved on this link :- 
+
+		http://dl.google.com/android/android-sdk_r24.4.1-windows.zip
+
+	Refer for more on this:- 
+
+		https://stackoverflow.com/questions/41407396/is-gui-for-android-sdk-manager-gone
+
+4) Done? Now lets setup somethings before we download other dependencies.
+
+5) Make a folder named "android-sdk" in your "C" drive (anywhere. But do pay attention to the path of this folder)
+	
+	Inside this same folder create a folder named "cmdline-tools". (Purshotam: I will explain you why.)
+
+	Unzip the downloaded GUI SDK Manager in the "android-sdk" folder. JUST DO IT, don't ask quesions.
+
+	Add the ";C:\..\android-sdk\android-sdk-windows" path to System ANDROID_HOME Environment Variable.
+
+	Add the ";C:\..\android-sdk\android-sdk-windows" path to System ANDROID_SDK_ROOT Environment Variable.
+
+	Now go inside the folder "android-sdk-windows". Open SDK Manager.exe.
+
+	Install the platform-tools, latest version of build tools, All EXTRAS (optional).
+
+8) Now to understand cordova to make android apps, here are some highlights from cordova android platform documentation (Read slowly and understand few things, why's and what's. Come back to it afterwards if you do not understand now):-
+
+	cordova-android Version 	Supported Android API-Levels 	Equivalent Android Version
+	11.X.X 						22 - 32 						5.1 - 12.0.0 (L)
+	10.X.X 						22 - 30 						5.1 - 11.0.0
+	9.X.X 						22 - 29 						5.1 - 10.0.0
+	8.X.X 						19 - 28 						4.4 - 9.0.0
+	7.X.X 						19 - 27 						4.4 - 8.1
+	6.X.X 						16 - 26 						4.1 - 8.0.0
+	5.X.X 						14 - 23 						4.0 - 6.0.1
+	4.1.X 						14 - 22 						4.0 - 5.1
+	4.0.X 						10 - 22 						2.3.3 - 5.1
+	3.7.X 						10 - 21 						2.3.3 - 5.0.2
+
+	> Please note that the versions listed here are for Cordova's Android package, cordova-android, and not for the Cordova CLI (Purshotam: Cordova-android is part of Cordova package but it is different from Cordova-CLI)
+
+	> To determine what version of Cordova's Android package is installed in your Cordova project, run the command cordova platform ls in the directory that holds your project.
+
+	> Install Java Development Kit (JDK) 8.
+
+	> As of Cordova-Android 6.4.0, Gradle is now required to be installed to build Android. !!!!!IMPORTANT!!!!!
+
+	> Open the Android SDK Manager and make sure the following are installed:
+	    Android Platform SDK for your targeted version of Android (Pushotam: This step is a bit subjective, target needs to be based on desired android version. For example if you use cordova-android 6.X.X you are targeting API level 26 i.e. android 8.0.0 and minimum would be 16 i.e. 4.1. This is according to the above table. Check Cordova-android version before you download the SDK package for that API level)
+	    
+	    Android SDK build-tools version 29.0.2 or higher
+
+	> Cordova's CLI requires specific environment variables so it can function correctly. If the environment variables are missing, the CLI will attempt to resolve the variable temporarily. If the missing variables fail to resolve, they must be set manually.
+
+		> The following variables must be set:
+
+	    	JAVA_HOME - The environment variable to the location of your JDK installation
+		    ANDROID_SDK_ROOT - The environment variable to the location of your Android SDK installation
+
+		> It is also recommended to update the system PATH environment variable to include the following directories.
+
+	    	cmdline-tools\latest\bin
+	    	emulator (optional)
+	    	platform-tools
+	    	build-tools
+	        This is required for the apksigner and zipalign tools.
+
+		Note: The directories above are generally located in the Android SDK ROOT.
+
+	For more refer:- https://cordova.apache.org/docs/en/latest/guide/platforms/android/index.html
+
+9) For Gradle you can download the latest version from official website:-
+
+		https://gradle.org/next-steps/?version=7.5.1&format=all
+
+		Prefer unzipping it in C:/Gradle
+
+		When installing on Windows, you need to add the path to the Gradle's binary directory to your system PATH environment variable. So add the ";C:/../bin" folder of gradle in System PATH environment variable.
+
+10) Done? Pretty bored? Me too...
+
+11) Install the latest Android SDK CLI tools too because they are used by Cordova to build android apps. (Cordova won't use the GUI SDK tools we installed few steps before) :-
+	
+	https://dl.google.com/android/repository/commandlinetools-win-8512546_latest.zip
+
+	Unzip that in your freshly made directory "android-sdk\cmdline-tools\".
+
+		Rename the unzipped directory to "latest".
+
+		Now when you click on the latest directory, the path will be like this :-
+
+		"android-sdk\cmdline-tools\latest" and it will contain the "bin" folder.
+
+		Add the "C:\..\android-sdk\cmdline-tools\latest\bin" to System PATH Environment Variable.
+
+		Add the "C:\..\android-sdk\android-sdk-windows\platform-tools" to System PATH Environment Variable.
+
+		Add the "C:\..\android-sdk\android-sdk-windows\tools" to System PATH Environment Variable.
+
+		Add the "C:\..\android-sdk\android-sdk-windows\build-tools" to System PATH Environment Variable.
+
+		Add the "C:\..\android-sdk\android-sdk-windows\emulator" to System PATH Environment Variable.
+		
+12) Last thing is to accept licenses in android-sdk:-
+	
+	Open terminal and Execute following command:-
+
+	sdkmanager --licenses
+	
+13)	Now open your folder where you would want to create and save the cordova project:-
+	
+	run the following commands in it, one by one:-
+
+		> cordova create TestApp com.android.testapp MyTestApp
+
+		> cd TestApp
+
+		> cordova platform add android
+		
+	Now, after this you will be able to see the Android-Target: _____
+		
+	Also, you will be able to see with which version of cordova-android you have added the android platform.
+		
+	The target version is determined by the cordova-android version.
+		
+	To change the target to a lower version(which is what would be preferable if we don't have a android phone with a higher version)
+	we would be required to explicitly mention which cordova-android we need to fetch.
+
+	Now, execute this to remove the current cordova-android platform from the project:-
+
+		> cordova platform rm android
+		
+	Mention the cordova-android version just in front of the following command, while adding it:-
+
+		> cordova platform add android@6.4.0
+
+	After this the output will show the target android version, Android Target:- ______ (Note this API Level)
+
+	For more on cordova-android older android phone compatability:- 
+
+		https://stackoverflow.com/questions/48217823/how-to-compile-cordova-apps-for-older-android-versions
+
+	Now we need to install the required SDK Packages.
+
+	To see which SDK package need to be installed after adding android platform, execute the following command in your project folder:-
+
+		> cordova requirements
+
+	Now run the GUI Android SDK Manager.exe
+
+		Go to the target API Level packages.
+
+			Install only the SDK Platform package.
+
+	Now you can run:-
+
+		> cordova build android
+
+	In your project folder.
+
+
+	
+

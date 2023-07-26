@@ -1,0 +1,88 @@
+Syllabus of subject "Internet of things" is given whose structure is similar to:
+Unit 1 :
+Chapter 1: Subtopics
+Chapter 2: Subtopics
+
+Unit 2 :
+Chapter 1: Subtopics
+Chapter 2: Subtopics
+
+I want you to generate 6 questions for each chapter based on the subtopics and the subject context, the real syllabus is the following:
+
+UNIT 1 :
+The Internet of Things: An Overview: The Flavour of the Internet of
+Things, The “Intaernet” of “Things”, The Technology of the Internet of
+Things, Enchanted Objects,
+Who is Making the Internet of Things?
+
+Design Principles for Connected Devices: Calm and Ambient
+Technology, Magic as Metaphor, Privacy, Keeping Secrets, Whose
+Data Is It Anyway? Web Thinking for Connected Devices, Small
+Pieces, Loosely Joined, First-Class Citizens on The Internet, Graceful
+Degradation, Affordances.
+
+Internet Principles: Internet Communications: An Overview, IP,
+TCP, The IP Protocol Suite (TCP/IP), UDP, IP Addresses, DNS,
+Static IP Address Assignment,
+Dynamic IP Address Assignment, IPv6, MAC Addresses, TCP and
+UDP Ports, An Example: HTTP Ports, Other Common Ports,
+Application Layer Protocols, HTTP,
+HTTPS: Encrypted HTTP, Other Application Layer Protocols.
+
+UNIT 2 :
+Thinking About Prototyping: Sketching, Familiarity, Costs versus
+Ease of Prototyping, Prototypes and Production, Changing Embedded
+Platform, Physical Prototypes and Mass Personalisation, climbing into
+the Cloud, Open Source versus Closed Source, Why Closed? Why
+Open? Mixing Open and Closed Source, Closed Source for Mass
+Market Projects, Tapping into the Community.
+
+Prototyping Embedded Devices: Electronics, Sensors, Actuators,
+Scaling Up the Electronics, Embedded Computing Basics,
+Microcontrollers, System-on-Chips, Choosing Your Platform,
+Arduino, developing on the Arduino, Some Notes on the Hardware,
+Openness, Raspberry Pi, Cases and Extension Boards, Developing on
+the Raspberry Pi, Some Notes on the Hardware, Openness.
+
+UNIT 3 :
+Prototyping the Physical Design: Preparation, Sketch, Iterate, and
+Explore, Nondigital Methods, Laser Cutting, Choosing a Laser Cutter,
+Software, Hinges and Joints, 3D Printing, Types of 3D Printing,
+Software, CNC Milling, Repurposing/Recycling.
+
+Prototyping Online Components: Getting Started with an API,
+Mashing Up APIs, Scraping, Legalities, writing a New API,
+Clockodillo, Security, implementing the API, Using Curl to Test,
+Going Further, Real-Time Reactions, Polling, Comet, Other Protocols,
+MQ Telemetry Transport, Extensible Messaging and Presence
+Protocol, Constrained Application Protocol.
+
+UNIT 4 :
+Techniques for Writing Embedded Code: Memory Management,
+Types of Memory, Making the Most of Your RAM, Performance and
+Battery Life, Libraries,Debugging.
+
+Business Models: A Short History of Business Models, Space and
+Time, From Craft to Mass Production, The Long Tail of the Internet,
+Learning from History, The Business Model Canvas, Who Is the
+Business Model For? Models, Make Thing, Sell Thing, Subscriptions,
+Customisation, be a Key Resource.
+
+Provide Infrastructure: Sensor, Networks, take a Percentage, Funding an Internet of Things Startup,
+Hobby Projects and Open Source, Venture Capital, Government
+Funding, Crowdfunding, Lean Startups
+
+UNIT 5 :
+Moving to Manufacture: What Are You Producing? Designing Kits,
+Designing Printed circuit boards, Software Choices, The Design
+Process, Manufacturing Printed Circuit Boards, Etching Boards,
+Milling Boards. Assembly, Testing, Mass-Producing the Case and
+Other Fixtures, Certification, Costs, Scaling Up Software,
+Deployment, Correctness and Maintainability, Security, Performance,
+User Community.
+
+Ethics: Characterizing the Internet of Things, Privacy, Control,
+Disrupting Control,Crowdsourcing, Environment, Physical Thing,
+Electronics, Internet Service, Solutions, The Internet of Things as Part
+of the Solution, Cautious Optimism, The Open Internet of Things
+Definition.

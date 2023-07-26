@@ -1,0 +1,114 @@
+Unit 1: The Internet of Things
+
+Chapter 1: The Internet of Things: An Overview
+
+    What is the Internet of Things? Explain its components and applications.
+    What are enchanted objects in IoT? Provide examples.
+    Who are the major players in the IoT industry? Explain their contributions.
+    How does IoT technology work? Explain the architecture and protocols used.
+
+Chapter 2: Design Principles for Connected Devices
+
+    What are the design principles for connected devices? Explain each in detail.
+    How can privacy and security be ensured in IoT devices? Explain the challenges and solutions.
+    What is web thinking for connected devices? Explain its benefits and limitations.
+    What are affordances in IoT devices? How can they be designed effectively?
+
+Chapter 3: Internet Principles
+
+    What are IP and TCP protocols in the Internet? Explain their functions and differences.
+    What are IP addresses and DNS? Explain their role in Internet communications.
+    What are the differences between static and dynamic IP address assignment? Which one is better for IoT devices?
+    What are the common application layer protocols used in the Internet? Explain HTTP and HTTPS.
+
+Unit 2: Prototyping for IoT Devices
+
+Chapter 1: Thinking About Prototyping
+
+    What is prototyping? Explain its benefits and drawbacks.
+    How can costs and ease of prototyping be balanced? Explain the factors to consider.
+    What is the role of open source and closed source in prototyping for IoT devices?
+    What are the benefits of tapping into the community for IoT projects?
+
+Chapter 2: Prototyping Embedded Devices
+
+    What are electronics, sensors, and actuators in IoT devices? Explain their functions and types.
+    How can embedded computing be scaled up for IoT devices? Explain the challenges and solutions.
+    What are microcontrollers and system-on-chips? How can they be used for IoT devices?
+    What is Arduino and Raspberry Pi? Explain their features and differences.
+
+Chapter 3: Developing on Arduino and Raspberry Pi
+
+    How can software be developed on Arduino and Raspberry Pi? Explain the programming languages and tools used.
+    What are the hardware requirements for developing on Arduino and Raspberry Pi? Explain the cases and extension boards.
+    What are the benefits of openness in Arduino and Raspberry Pi? Explain the role of open source software and hardware.
+    What are the limitations of Arduino and Raspberry Pi? Explain the factors to consider when choosing a platform.
+
+Unit 3: Prototyping for Physical Design
+
+Chapter 1: Preparation, Sketch, Iterate, and Explore
+
+    What is physical prototyping? Explain its importance in IoT design.
+    What are the steps involved in physical prototyping? Explain each step.
+    What are the benefits of using nondigital prototyping methods? Give examples.
+    What is laser cutting? How is it used in physical prototyping?
+
+Chapter 2: Hinges and Joints, 3D Printing
+
+    What are hinges and joints? How are they used in IoT design?
+    What are the different types of 3D printing technologies? Explain their differences.
+    What is CNC milling? How is it used in physical prototyping?
+    How can repurposing and recycling be used in physical prototyping?
+
+Chapter 3: Prototyping Online Components
+
+    What is an API? Explain its importance in IoT design.
+    What is scraping? How is it used in online component prototyping?
+    What is Comet? How does it work with real-time reactions in IoT?
+    What is MQTT? How is it used in IoT communication protocols?
+
+Unit 4: Embedded Code and Business Models
+
+Chapter 1: Techniques for Writing Embedded Code
+
+    What is memory management? Explain its importance in embedded code.
+    What are the different types of memory used in embedded systems? Explain their differences.
+    What are libraries in embedded code? Explain their benefits.
+    What are some common debugging techniques used in embedded systems?
+
+Chapter 2: Business Models
+
+    What is the history of business models? Explain their evolution.
+    What is the Business Model Canvas? Explain its components and benefits.
+    What are the different types of business models? Give examples.
+    Who is the business model for? How does it impact IoT startups?
+
+Chapter 3: Infrastructure for IoT
+
+    What are sensors in IoT? Explain their importance and types.
+    What are the different types of networks used in IoT? Explain their differences.
+    What are the different funding options available for IoT startups? Explain their benefits and limitations.
+    What are some common infrastructure challenges faced by IoT startups? How can they be addressed?
+
+Unit 5: Internet of Things
+
+Chapter 1: Moving to Manufacture
+
+    What is the design process for developing an IoT device? Explain the steps involved.
+    What are the different software choices available for developing an IoT device?
+    How are printed circuit boards (PCBs) designed and manufactured for IoT devices? Explain the process.
+    What are the different types of PCB manufacturing techniques? Explain their advantages and disadvantages.
+
+Chapter 2: Assembly, Testing, and Deployment
+
+    How are IoT devices assembled and tested during the manufacturing process?
+    What is the process of mass-producing the case and other fixtures for IoT devices?
+    What is certification and why is it important for IoT devices? Explain the certification process.
+    How are IoT devices deployed and maintained after manufacturing? Explain the process of scaling up software for IoT devices.
+
+Chapter 3: Ethics
+
+    What is the Internet of Things (IoT)? Explain its characteristics and applications.
+    What are the ethical considerations when designing and deploying IoT devices? Explain the importance of privacy and control in the IoT.
+    How can crowdsourcing be used in the development of IoT solutions? Explain its advantages and disadvantages.
+    How can the IoT be used as a solution to environmental problems? Explain the concept of the "open internet of things".

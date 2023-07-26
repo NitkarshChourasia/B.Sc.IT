@@ -1,0 +1,154 @@
+#Write a program for the given star.
+def upper_tri_py(rows:int):
+    for i in range(0,rows):
+        print('*'*(i+1))
+upper_tri_py(4)
+
+
+[Output]
+*
+**
+***
+****
+
+
+
+#Using for loop write a program to display a sum of 1 to 8 numbers.
+def sum_1_to_8() -> int:
+    sum = 0
+    for i in range(1,9):
+        sum = sum + i
+    return sum
+print("The sum of numbers from 1 to 8 is:")
+print(sum_1_to_8())
+
+[Output]
+The sum of numbers from 1 to 8 is:
+36
+
+
+
+#Write a program to find factorial of a number given by the user.
+def factorial(num:int, fact=1):
+    if (num < 0):
+        return "Enter a positive number."
+    if (num == 0):
+        return fact
+    
+    return factorial(num-1,fact*num)
+
+print(factorial(int(input("Input the number for factorial: "))))
+
+[Output]
+Input the number for factorial: 5040
+
+
+
+#Write a program to display the sum of numbers 5 to 15.
+def sum_5_to_15() -> int:
+    sum = 0
+    for i in range(5,16):
+        sum = sum + i
+    return sum
+print("The sum of numbers from 5 to 15 is:")
+print(sum_5_to_15())
+
+[Output]
+The sum of numbers from 5 to 15 is:
+110
+
+
+
+#Write a program to display the reverse of a number given by the user.
+def rev_num(num:int):
+    temp = num
+    rev = 0
+    while(temp!=0):
+        rev = rev*10 + temp%10
+        temp = int(temp/10)
+    print("The reversed number is: ", rev)
+
+rev_num(int(input("Enter the num to reverse: ")))
+
+[Output]
+Enter the num to reverse: The reversed number is:  1234321
+
+
+
+#Write a star program to print letter Si
+def print_S(rows:int):
+    first = 0
+    half = int(rows/2)
+    last = rows - 1
+    for i in range(0, rows):
+        if (i == first or i == half or i == last):
+            for i in range(0, rows):
+                print('*', end='')
+            print('')
+        elif (i < half):
+            print('*')
+        else:
+            for i in range(0, rows - 1):
+                print(' ', end='')
+            print('*')
+print_S(10)
+
+[Output]
+**********
+*
+*
+*
+*
+**********
+         *
+         *
+         *
+**********
+
+
+
+#Write a star program to print letter F.
+def print_F(rows:int):
+    first = 0
+    three_fourth = int((rows*2)/5)
+    for i in range(0, rows):
+        if (i == first or i == three_fourth):
+            for i in range(0, rows):
+                print('*', end='')
+            print('')
+        else:
+            print('*')
+print_F(10)
+
+[Output]
+**********
+*
+*
+*
+**********
+*
+*
+*
+*
+*
+
+
+
+#Write a program to find if the given number is palindrome or not.
+def is_palindrome(num:int):
+    temp = str(num)
+    length = len(temp)
+    for i in range(0, length):
+        if (temp[i]!=temp[length-i-1]):
+            return False
+    return True
+
+num = int(input("Enter the num for pal check: "))
+
+if (is_palindrome(num)):
+    print("This number is a palindrome.")
+else:
+    print("This number is not a palindrome.i")
+
+[Output]
+Enter the num for pal check: This number is a palindrome.

@@ -1,0 +1,20 @@
+- This is not called organisation.
+- How would you organise with respect to lots of QB generations and their questions.
+- Don't you think some tags like date, testNo:1, and some other tags, it should be organised in a folder or something?
+- Don;t you think tracking it with some excel or something would be good?
+- Or you can create a excel file and link all the files in the adjacent column or row with date column and marks our own specified.
+- We are about to take this kind of test for lots of times and days.
+- Don't you think tracking them is of importance and organisation of them.
+- Like data analytics we should be able to perfom with full data tracking.
+- Accountability???
+- Fuck, you, no analysis of future events.
+- Iterate it. Your sole responsibility it is. Now.
+
+
+Date                  | Time |          Marks                | |AnswertoQB|     |QBweGOT|
+(with day(tues),DMY)             |Nitkarsh|Purshotam|             address        address
+
+
+
+Something like this would be wonderful.
+Generate someNaming pattern to organise or whatever I don't know. Some RegEx to organise maybe.

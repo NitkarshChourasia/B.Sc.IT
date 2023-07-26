@@ -1,0 +1,56 @@
+_____________________________________________________________________________________________________
+[2023-03-21 20:29:16]: What is the umbrella term for the following terms:
+distributed computing, dynamic resource allocation, and distributed
+storage.
+
+[2023-03-21 20:29:16] RESPONSE: 
+_____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
+[2023-03-21 20:29:52]: What is the umbrella term for the following terms:
+distributed computing, dynamic resource allocation, and distributed
+storage.
+
+[2023-03-21 20:29:54] RESPONSE: 
+The umbrella term is distributed systems.
+_____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
+[2023-03-21 20:30:33]: What are distributed systems?
+
+[2023-03-21 20:30:36] RESPONSE: 
+A distributed system is a system that consists of multiple computers that are connected to each other through a network. These computers work together in order to accomplish a common goal.
+_____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
+[2023-03-21 22:30:55]: embed meaning
+
+[2023-03-21 22:31:00] RESPONSE: 
+to make something part of something else
+
+The company's new logo was meant to embed their message of environmental responsibility.
+_____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
+[2023-03-21 22:43:30]: What are sensors and actuators.
+
+[2023-03-21 22:43:34] RESPONSE: 
+A sensor is a device that detects or measures a physical property and converts it into a signal that can be read by an observer or by an instrument. For example, a thermometer is a sensor that converts temperature into a signal that can be read by an observer or by an instrument.
+
+An actuator is a device that converts energy into motion or force. For example, a motor is an actuator that converts electrical energy into mechanical motion.
+_____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
+[2023-03-21 22:47:27]: examples of communication modules.
+
+[2023-03-21 22:47:29] RESPONSE: 
+Some examples of communication modules are:
+
+-an email server
+-a web server
+-a print server
+-an instant messaging server
+-a file transfer server
+-a database server
+_____________________________________________________________________________________________________
+_____________________________________________________________________________________________________
+[2023-03-21 22:49:34]: examples of connectivity protocols.
+
+[2023-03-21 22:49:37] RESPONSE: 
+There are many types of connectivity protocols, but some examples include TCP/IP, UDP, HTTP, and HTTPS.
+_____________________________________________________________________________________________________

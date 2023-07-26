@@ -1,0 +1,51 @@
+NP University, Lovely!!!
+
+
+
+Q1. Answer the following questions: (Any three) (marks 15)
+1. What is the Internet of Things? Explain its components and applications.
+2. Who are the major players in the IoT industry? Explain their contributions.
+3. How can privacy and security be ensured in IoT devices? Explain the challenges and solutions.
+4. What is web thinking for connected devices? Explain its benefits and limitations.
+5. What are IP and TCP protocols in the Internet? Explain their functions and differences.
+6. What are the differences between static and dynamic IP address assignment? Which one is better for IoT devices?
+
+
+
+Q2. Answer the following questions: (Any three) (Marks 15)
+1. How can costs and ease of prototyping be balanced? Explain the factors to consider.
+2. What is the role of open source and closed source in prototyping for IoT devices?
+3. What are electronics, sensors, and actuators in IoT devices? Explain their functions and types.
+4. How can embedded computing be scaled up for IoT devices? Explain the challenges and solutions.
+5. How can software be developed on Arduino and Raspberry Pi? Explain the programming languages and tools used.
+6. What are the benefits of openness in Arduino and Raspberry Pi? Explain the role of open source software and hardware.
+
+
+
+Q3. Answer the following questions: (Any three) (Marks 15)
+1. What is physical prototyping? Explain its importance in IoT design.
+2. What are the benefits of using nondigital prototyping methods? Give examples.
+3. What are hinges and joints? How are they used in IoT design?
+4. What is CNC milling? How is it used in physical prototyping?
+5. What is an API? Explain its importance in IoT design.
+6. What is Comet? How does it work with real-time reactions in IoT?
+
+
+
+Q4. Answer the following questions: (Any three) (Marks 15)
+1. What are the different types of memory used in embedded systems? Explain their differences.
+2. What are some common debugging techniques used in embedded systems?
+3. What is the Business Model Canvas? Explain its components and benefits.
+4. Who is the business model for? How does it impact IoT startups?
+5. What are the different types of networks used in IoT? Explain their differences.
+6. What are some common infrastructure challenges faced by IoT startups? How can they be addressed?
+
+
+
+Q5. Answer the following questions: (Any three) (Marks 15)
+1. What is the design process for developing an IoT device? Explain the steps involved.
+2. How are printed circuit boards (PCBs) designed and manufactured for IoT devices? Explain the process.
+3. How are IoT devices assembled and tested during the manufacturing process?
+4. What is certification and why is it important for IoT devices? Explain the certification process.
+5. What is the Internet of Things (IoT)? Explain its characteristics and applications.
+6. How can crowdsourcing be used in the development of IoT solutions? Explain its advantages and disadvantages.
