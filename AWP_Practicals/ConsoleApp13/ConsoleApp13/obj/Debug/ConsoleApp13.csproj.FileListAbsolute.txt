@@ -1,0 +1,7 @@
+D:\coding\B.Sc.IT\AWP_Practicals\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.AssemblyReference.cache
+D:\coding\B.Sc.IT\AWP_Practicals\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.csproj.CoreCompileInputs.cache
+D:\coding\B.Sc.IT\AWP_Practicals\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+D:\coding\B.Sc.IT\AWP_Practicals\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+D:\coding\B.Sc.IT\AWP_Practicals\ConsoleApp13\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+D:\coding\B.Sc.IT\AWP_Practicals\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+D:\coding\B.Sc.IT\AWP_Practicals\ConsoleApp13\ConsoleApp13\obj\Debug\ConsoleApp13.pdb
