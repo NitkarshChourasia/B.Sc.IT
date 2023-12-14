@@ -1,0 +1,7 @@
+D:\coding\B.Sc.IT\AWP_Practicals\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+D:\coding\B.Sc.IT\AWP_Practicals\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+D:\coding\B.Sc.IT\AWP_Practicals\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+D:\coding\B.Sc.IT\AWP_Practicals\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+D:\coding\B.Sc.IT\AWP_Practicals\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\coding\B.Sc.IT\AWP_Practicals\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+D:\coding\B.Sc.IT\AWP_Practicals\Inheritance\Inheritance\obj\Debug\Inheritance.pdb

@@ -1,0 +1,2 @@
+D:\coding\B.Sc.IT\AWP_Practicals\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.AssemblyReference.cache
+D:\coding\B.Sc.IT\AWP_Practicals\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
